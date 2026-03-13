@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/your-repo/k8s-homelab-gitops.git' # your repo here
+    repoURL: 'https://github.com/brypreez/k8s-homelab-gitops' # your repo here
     targetRevision: HEAD
     path: charts/longhorn # or wherever your chart/manifest lives
   destination:
